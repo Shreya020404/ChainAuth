@@ -18,7 +18,7 @@ export default function Footer() {
           </p>
           <div className="flex space-x-6 mb-4">
             <a
-              href="https://github.com/SatyamChoubey789/ChainAuth"
+              href="https://github.com/Shreya020404/ChainAuth"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-600 dark:hover:text-blue-400 transition duration-200"
